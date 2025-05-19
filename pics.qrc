@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/gamepics">
+        <file>wall.jpg</file>
+        <file>body.png</file>
+        <file>down.png</file>
+        <file>food.png</file>
+        <file>left.png</file>
+        <file>right.png</file>
+        <file>up.png</file>
+    </qresource>
+</RCC>
